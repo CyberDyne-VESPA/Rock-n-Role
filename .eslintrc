@@ -1,0 +1,11 @@
+{
+  "rules":
+  {
+    "camelcase": "off",
+    "semi": [1, "never"],
+    "brace-style": [1, "allman"],
+    "no-trailing-spaces": "warn",
+    "indent": ["warn", 2],
+    "no-unused-vars": ["warn", {"vars": "all", "args": "after-used", "varsIgnorePattern": "^_", "argsIgnorePattern": "^_"}] 
+  }
+}
