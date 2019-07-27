@@ -14,7 +14,7 @@ you can just download it from [Nodejs.org]
 Navigate (`cd`) somewhere you like, and run
 
 ```
-git clone https://github.com/mfdorst/Rock-n-Role
+git clone https://github.com/CyberDyne-VESPA/Rock-n-Role
 ```
 
 This will clone this project into a folder called `Rock-n-Role`. If you would like to name the folder something else, just add your desired folder name at the end of the command, or rename it yourself afterward.

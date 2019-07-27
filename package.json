@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mfdorst/Rock-n-Role.git"
+    "url": "git+https://github.com/CyberDyne-VESPA/Rock-n-Role.git"
   },
-  "author": "Michael Dorst",
+  "author": "CyberDyne-VESPA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mfdorst/Rock-n-Role/issues"
+    "url": "https://github.com/CyberDyne-VESPA/Rock-n-Role/issues"
   },
-  "homepage": "https://github.com/mfdorst/Rock-n-Role#readme",
+  "homepage": "https://github.com/CyberDyne-VESPA/Rock-n-Role#readme",
   "dependencies": {
     "discord.js": "^11.5.1",
     "dotenv": "^8.0.0"
